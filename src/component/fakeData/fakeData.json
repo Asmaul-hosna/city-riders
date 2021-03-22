@@ -1,0 +1,29 @@
+[{
+    "title": "Bike",
+    "image": "https://static8.depositphotos.com/1001911/988/v/600/depositphotos_9885470-stock-illustration-motorcycle.jpg",
+    "location": "badda",
+    "ipNumber": "32",
+    "date": "19.03.2021",
+    "rate": "100/tk per k.m"
+  }, {
+    "title": "Car",
+    "image": "https://www.easylinedrawing.com/wp-content/uploads/2019/07/cartoon_car_drawing_tutorial.png",
+    "location": "khilkhet",
+    "ipNumber": "21",
+    "date": "19.03.2021",
+    "rate": "50/tk per k.m"
+  }, {
+    "title": "Bus",
+    "image": "https://image.freepik.com/free-vector/bus-cartoon-icon-illustration_138676-1957.jpg",
+    "location": "shahbagh",
+    "ipNumber": "17",
+    "date": "19.03.2021",
+    "rate": "25/tk per k.m"
+  }, {
+    "title": "Train",
+    "image": "https://image.shutterstock.com/image-vector/train-260nw-104147417.jpg",
+    "location": "dhanmondi",
+    "ipNumber": "44",
+    "date": "19.03.2021",
+    "rate": "15/tk per k.m"
+  }]
